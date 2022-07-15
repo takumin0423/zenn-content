@@ -37,6 +37,8 @@ published: true
 
 ### [React + TypeScript: React Hook Form でフォーム入力値をまとめて簡単に取得・検証する](https://qiita.com/FumioNonaka/items/943909dee793ee63416b)
 
+### [React に有利なベンチマークを作ってみた](https://qiita.com/uhyo/items/35cb243557df5e1a87fc)
+
 ## Next.js
 
 ### [Rails エンジニアのための Next.js 入門](https://hokaccha.hatenablog.com/entry/2021/10/23/135532)
