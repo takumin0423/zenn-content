@@ -9,8 +9,8 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"packageManager": "pnpm@10.19.0",
+	"packageManager": "pnpm@10.20.0",
 	"dependencies": {
-		"zenn-cli": "^0.2.6"
+		"zenn-cli": "^0.2.9"
 	}
 }
