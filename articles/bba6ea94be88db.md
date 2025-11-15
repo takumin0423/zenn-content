@@ -1,7 +1,7 @@
 ---
 title: "フルスタックTypeScriptを採用すると何が嬉しい？"
 emoji: "⭐"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["typescript", "アーキテクチャ"]
 published: true
 publication_name: relic_tech
